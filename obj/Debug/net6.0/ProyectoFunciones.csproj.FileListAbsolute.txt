@@ -1,0 +1,15 @@
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\bin\Debug\net6.0\ProyectoFunciones.exe
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\bin\Debug\net6.0\ProyectoFunciones.deps.json
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\bin\Debug\net6.0\ProyectoFunciones.runtimeconfig.json
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\bin\Debug\net6.0\ProyectoFunciones.dll
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\bin\Debug\net6.0\ProyectoFunciones.pdb
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ProyectoFunciones.csproj.AssemblyReference.cache
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ProyectoFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ProyectoFunciones.AssemblyInfoInputs.cache
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ProyectoFunciones.AssemblyInfo.cs
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ProyectoFunciones.csproj.CoreCompileInputs.cache
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ProyectoFunciones.dll
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\refint\ProyectoFunciones.dll
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ProyectoFunciones.pdb
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ProyectoFunciones.genruntimeconfig.cache
+C:\Users\cratoxs\Desktop\CoderJoni\ProyectoFunciones\obj\Debug\net6.0\ref\ProyectoFunciones.dll
